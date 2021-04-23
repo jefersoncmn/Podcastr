@@ -7,7 +7,6 @@
    * [Pré-requisitos e como rodar a aplicação](#prerequisites)
    * [Depenências](#dependency)
       * [xyz](#xyz)
-   * [Arquitetura](#architecture)
 
 <!--te-->
 
